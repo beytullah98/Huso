@@ -18,7 +18,7 @@ figlet -f small "By"
 sleep 1
 figlet -f small "Huso"
 sleep 1
-figlet -f small ":)" 
+figlet -f small "Teşekkür eder" 
 sleep 1
 echo " Paketler yukleniyor......." 
 apt-get install curl -y
@@ -32,14 +32,26 @@ apt-get install php -y
 apt-get install nmap -y
 apt-get install apache2 -y 
 apt-get install cowsay -y
+git clone https://github.com/yamanefkar/Turk-Sploit/
+clear
+git clone https://github.com/DarkSecDevelopers/HiddenEye
+clear 
+git clone https://github.com/thelinuxchoice/shellphish
+clear
+git clone https://github.com/htr-tech/zphisher
+clear
+git clone https://github.com/JTECHCODE/crackinsta.git
+clear
+git clone https://github.com/htr-tech/nexphisher
+clear
+git clone https://github.com/Ranginang67/DarkFly-Tool
+clear
 apt-get install ruby -y
-echo "Pleas accept........"
+echo "Lütfen kabul edin........"
 sleep 3
 termux-setup-storage
 sleep 6
 mkdir /sdcard/Huso
-cd $dir
-mkdir Huso-results
 cd $dir
 pip install PySocks
 clear
@@ -50,8 +62,9 @@ sleep 1
 echo " pip dosyaları yükleniyor" $G
 pip install --upgrade pip
 pip install wordlist
+pip install requests
 sleep 3
 clear
 figlet -f big " Hacked By Huso"
-echo " JustWatchHackTeam" 
+figlet -f small " JustWatchHackTeam " 
 sleep 3
