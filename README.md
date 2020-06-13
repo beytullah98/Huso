@@ -2,7 +2,8 @@
 
 Bu script kurulum için yazılmıştır. 
 Termux Ve Linux ortamlarında çalışmaktadır.
-Tek komutla
+
+Tek komutla ; 
 
 zphisher
 
