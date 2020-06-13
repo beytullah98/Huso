@@ -12,15 +12,13 @@ apt upgrade -y
 clear
 pkg install figlet -y
 clear
-figlet -f small indiriliyor 
+echo " indiriliyor.... 
 sleep 1
-figlet -f small "By"
+toilet -f mono12 -F gay " By "
 sleep 1
-figlet -f small "Huso"
+toilet -f mono12 -F gay "Huso" 
 sleep 1
-figlet -f small "Teşekkür eder" 
-sleep 1
-echo " Paketler yukleniyor......." 
+echo "Paketler yükleniyor......." 
 apt-get install curl -y
 apt-get install tor -y
 apt-get install perl -y
@@ -57,7 +55,7 @@ pip install PySocks
 clear
 pip install bs4
 sleep 1
-echo " Indirme baslatiliyor.................."
+echo " İndirme başlatılıyor.................."
 sleep 1
 echo " pip dosyaları yükleniyor" $G
 pip install --upgrade pip
@@ -65,6 +63,6 @@ pip install wordlist
 pip install requests
 sleep 3
 clear
-figlet -f big " Hacked By Huso"
-figlet -f small " JustWatchHackTeam " 
+toilet -f mono12 -F gay "By Huso" 
+echo "Founder of JustWatchHackTeam ; Teşekkür eder :)" 
 sleep 3
