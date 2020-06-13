@@ -63,5 +63,5 @@ pip install wordlist
 pip install requests
 sleep 3
 figlet -f big "By Huso" 
-echo "Founder of JustWatchHackTeam" 
+echo " Founder of JustWatchHackTeam " 
 sleep 3
