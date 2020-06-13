@@ -64,5 +64,5 @@ pip install requests
 sleep 3
 clear
 toilet -f mono12 -F gay "By Huso" 
-echo "Founder of JustWatchHackTeam ; Teşekkür eder :)" 
+echo "Founder of JustWatchHackTeam" 
 sleep 3
