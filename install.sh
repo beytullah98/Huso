@@ -63,6 +63,6 @@ pip install wordlist
 pip install requests
 sleep 3
 clear
-toilet -f mono12 -F gay "By Huso" 
+figlet -f big "By Huso" 
 echo "Founder of JustWatchHackTeam" 
 sleep 3
