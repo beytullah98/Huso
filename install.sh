@@ -62,7 +62,6 @@ pip install --upgrade pip
 pip install wordlist
 pip install requests
 sleep 3
-clear
 figlet -f big "By Huso" 
 echo "Founder of JustWatchHackTeam" 
 sleep 3
