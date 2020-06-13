@@ -1,9 +1,24 @@
 # Huso
 
 Bu script kurulum için yazılmıştır. 
-Termux Ve Linux ortamlarında çalışmaktadır. 
+Termux Ve Linux ortamlarında çalışmaktadır.
+Tek komutla
 
-Kurulum için 
+zphisher
+
+nexphisher
+
+Turk-Sploit
+
+shellphish
+
+HiddenEye,
+
+crackinsta,
+
+Toollarını $HOME kurar. 
+
+Kurulum için;
 
 https://github.com/theordersoulfly/Huso/
 
