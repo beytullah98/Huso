@@ -12,13 +12,15 @@ apt upgrade -y
 clear
 pkg install figlet -y
 clear
-echo " indiriliyor.... 
+figlet -f small indiriliyor 
 sleep 1
-toilet -f mono12 -F gay " By "
+figlet -f small "By"
 sleep 1
-toilet -f mono12 -F gay "Huso" 
+figlet -f small "Huso"
 sleep 1
-echo "Paketler yükleniyor......." 
+figlet -f small "Teşekkür eder" 
+sleep 1
+echo " Paketler yukleniyor......." 
 apt-get install curl -y
 apt-get install tor -y
 apt-get install perl -y
@@ -30,20 +32,6 @@ apt-get install php -y
 apt-get install nmap -y
 apt-get install apache2 -y 
 apt-get install cowsay -y
-git clone https://github.com/yamanefkar/Turk-Sploit/
-clear
-git clone https://github.com/DarkSecDevelopers/HiddenEye
-clear 
-git clone https://github.com/thelinuxchoice/shellphish
-clear
-git clone https://github.com/htr-tech/zphisher
-clear
-git clone https://github.com/JTECHCODE/crackinsta.git
-clear
-git clone https://github.com/htr-tech/nexphisher
-clear
-git clone https://github.com/Ranginang67/DarkFly-Tool
-clear
 apt-get install ruby -y
 echo "Lütfen kabul edin........"
 sleep 3
@@ -55,10 +43,14 @@ pip install PySocks
 clear
 pip install bs4
 sleep 1
-echo " İndirme başlatılıyor.................."
+echo " Indirme baslatiliyor.................."
 sleep 1
 echo " pip dosyaları yükleniyor" $G
 pip install --upgrade pip
 pip install wordlist
 pip install requests
+sleep 3
+clear
+figlet -f big "By Huso"
+figlet -f small "JustWatchHackTeam" 
 sleep 3
