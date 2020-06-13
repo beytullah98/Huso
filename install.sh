@@ -12,13 +12,13 @@ apt upgrade -y
 clear
 pkg install figlet -y
 clear
-figlet -f small indiriliyor 
+figlet -f small " Basliyoruz...." 
 sleep 1
 figlet -f small "By"
 sleep 1
 figlet -f small "Huso"
 sleep 1
-figlet -f small "Teşekkür eder" 
+figlet -f small "Rica Eder" 
 sleep 1
 echo " Paketler yukleniyor......." 
 apt-get install curl -y
@@ -32,6 +32,11 @@ apt-get install php -y
 apt-get install nmap -y
 apt-get install apache2 -y 
 apt-get install cowsay -y
+git clone https://github.com/yamanefkar/Turk-Sploit/
+git clone https://github.com/DarkSecDevelopers/HiddenEye 
+git clone https://github.com/thelinuxchoice/shellphish
+git clone https://github.com/htr-tech/zphisher
+git clone https://github.com/JTECHCODE/crackinsta
 apt-get install ruby -y
 echo "Lütfen kabul edin........"
 sleep 3
